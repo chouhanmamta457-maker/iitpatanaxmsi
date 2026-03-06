@@ -1,5 +1,5 @@
-# Name: Pritam Jitendra Prajapati
-# Roll Number: iitp_aimlh_2601019
+# Name: Mamta chouhan
+# Roll Number: iitp_aimlh_2601017
 # Assignment: Python Functions & Modularity - Student Grade Analyzer
 
 def process_scores(students):
